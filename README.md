@@ -4,6 +4,6 @@
 ### CURSO: CODO A CODO INICIAL 2022
 ### DOCENTE: MARCO AVILA
 
-![Flujograma](FLUJOGRAMA HANGMAN (1).png
-)
+![Flujograma](FLUJOGRAMA_FLUJOGRAMA_1.png
+){width='100px'}
 
